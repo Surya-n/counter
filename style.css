@@ -1,0 +1,34 @@
+body{
+    background-color: darkorange;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+ h1{
+        color:white
+    }
+
+.btn{
+    margin-right: 70px;
+    margin-left: 20px; 
+    }
+    
+input{
+        width:10px;
+        margin-left: 65px
+    }
+.btn3{
+        background-color: crimson;
+        margin-left:50px;
+        display:block
+    }
+
+.wrapper{
+        text-decoration: aliceblue;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        
+        transform:translate(-50%, -50%);
+        padding: 25px;
+        width: 20%;
+        background: black;
+        border-radius: 5px;
+        box-shadow: rgb(38, 57, 77) 0px 20px 30px -10p}
